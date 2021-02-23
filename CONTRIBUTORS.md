@@ -3,7 +3,7 @@
 - Krab
 - Krizzy
 - Snufie
-- Bluefox (Sambhav Arora)
+- BlueFox (Sambhav Arora)
 - LePichu
 - Chikorita-Lover
 - Coolio
@@ -16,7 +16,7 @@
 - LePichu
 - whangd00dle (Platymemo)
 - LeoCTH
-- Bluefox (Sambhav Arora)
+- BlueFox (Sambhav Arora)
 - BorgyDudeMan
 
 > # Finally, Special Thanks to original LD Team, and ReMod Studios for breathing new life into the project again.
